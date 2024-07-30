@@ -1,7 +1,8 @@
-# ant-design-vue3-360
-ant-design-vue3 360浏览器兼容性 设定
+# ant-design-vue3 360浏览器兼容
+ant-design-vue3 360浏览器兼容性 
 
-# CSS 错乱更正
+# CSS 错乱更正 
+## App.vue
 ```vue
  import { StyleProvider } from 'ant-design-vue';
  <StyleProvider hash-priority="high" :transformers="[legacyLogicalPropertiesTransformer]">
