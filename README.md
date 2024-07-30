@@ -1,5 +1,5 @@
 # ant-design-vue3-360
-ant-design-vue3 360兼容性
+ant-design-vue3 360浏览器兼容性 设定
 
 # CSS 错乱更正
 ```vue
